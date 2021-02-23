@@ -24,6 +24,8 @@
     "app-test": { "tags": [] },
     "app-test-e2e": { "tags": [], "implicitDependencies": ["app-test"] },
     "app-test2": { "tags": [] },
-    "app-test2-e2e": { "tags": [], "implicitDependencies": ["app-test2"] }
+    "app-test2-e2e": { "tags": [], "implicitDependencies": ["app-test2"] },
+    "app-test3": { "tags": [] },
+    "app-test3-e2e": { "tags": [], "implicitDependencies": ["app-test3"] }
   }
 }
